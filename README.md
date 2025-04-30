@@ -5,6 +5,7 @@ This end-to-end data analytics project analyzes a bank’s loan dataset using MS
 Banks must constantly evaluate loan performance, reduce risk from defaults, and gain deeper insights into lending patterns. However, the raw data lacks structure and usability, making it hard for decision-makers to extract insights efficiently.
 
 ## Task
+
 Build a full-cycle data solution that:
 -Cleans and structures raw loan data using SQL
 -Calculates critical financial KPIs
