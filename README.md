@@ -67,4 +67,11 @@ Enabled real-time tracking of:
 - Power BI 
 - Power Query
 - DAX
-- Excel 
+- Excel
+
+## Dashboard
+Summary - file:///C:/Users/Priya/Downloads/Bank%20Loan%20Report%20-%20Summary.pdf
+
+Overview - file:///C:/Users/Priya/Downloads/Bank%20Loan%20Report%20-%20Overview.pdf
+
+Detailed GridView - file:///C:/Users/Priya/Downloads/Bank%20Loan%20Report%20-Grid%20View.pdf
