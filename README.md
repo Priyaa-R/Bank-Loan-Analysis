@@ -6,10 +6,10 @@ Banks must constantly evaluate loan performance, reduce risk from defaults, and 
 
 ## Task
 Build a full-cycle data solution that:
-          -Cleans and structures raw loan data using SQL
-          -Calculates critical financial KPIs
-          -Visualizes insights through an interactive Power BI dashboard
-          -Helps the business identify patterns and improve lending strategy
+-Cleans and structures raw loan data using SQL
+-Calculates critical financial KPIs
+-Visualizes insights through an interactive Power BI dashboard
+-Helps the business identify patterns and improve lending strategy
 
 ## Action
 -Created SQL database and tables in MS SQL Server
