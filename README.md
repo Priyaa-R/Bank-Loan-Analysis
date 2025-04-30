@@ -72,6 +72,10 @@ Enabled real-time tracking of:
 ## Dashboard
 Summary - file:///C:/Users/Priya/Downloads/Bank%20Loan%20Report%20-%20Summary.pdf
 
+![Bank Loan Report - Summary](https://github.com/user-attachments/assets/2659c570-718e-4dae-b471-ba632502278e)
+
+
+
 Overview - file:///C:/Users/Priya/Downloads/Bank%20Loan%20Report%20-%20Overview.pdf
 
 Detailed GridView - file:///C:/Users/Priya/Downloads/Bank%20Loan%20Report%20-Grid%20View.pdf
