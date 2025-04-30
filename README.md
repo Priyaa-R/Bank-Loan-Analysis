@@ -55,12 +55,12 @@ Enabled real-time tracking of:
 - Loan Status Grid View
 
 ## Insights Derived
-Seasonality: Loan applications spike during certain months
-Top Regions: Specific states show higher loan volume
-Employment Factor: Longer employment correlates with better loan performance
-Homeowners: More likely to repay on time
-DTI Trends: Higher DTI correlates with loan default
-Good Loans dominate majority of applications
+- Seasonality: Loan applications spike during certain months
+- Top Regions: Specific states show higher loan volume
+- Employment Factor: Longer employment correlates with better loan performance
+- Homeowners: More likely to repay on time
+- DTI Trends: Higher DTI correlates with loan default
+- Good Loans dominate majority of applications
 
 ## Tools Used
 - SQL Server Management Studio (SSMS)
