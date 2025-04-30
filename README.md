@@ -7,16 +7,16 @@ Banks must constantly evaluate loan performance, reduce risk from defaults, and 
 ## Task
 
 Build a full-cycle data solution that:
--Cleans and structures raw loan data using SQL
--Calculates critical financial KPIs
--Visualizes insights through an interactive Power BI dashboard
--Helps the business identify patterns and improve lending strategy
+    - Cleans and structures raw loan data using SQL
+    - Calculates critical financial KPIs
+    - Visualizes insights through an interactive Power BI dashboard
+    - Helps the business identify patterns and improve lending strategy
 
 ## Action
--Created SQL database and tables in MS SQL Server
--Cleaned and transformed data using SQL queries and Power Query
--Built key financial metrics like total funded amount, interest rates, and loan performance
--Used DAX for KPI creation and Power BI for dynamic visuals
+- Created SQL database and tables in MS SQL Server
+- Cleaned and transformed data using SQL queries and Power Query
+- Built key financial metrics like total funded amount, interest rates, and loan performance
+- Used DAX for KPI creation and Power BI for dynamic visuals
 
 ## Designed three dashboards:
 
@@ -28,31 +28,31 @@ Build a full-cycle data solution that:
 
 ## Result
 Enabled real-time tracking of:
-       -Loan disbursement trends
-       -Good vs. bad loan comparison
-       -Regional, purpose-based, and demographic analysis
-       -Provided a user-friendly, interactive dashboard for stakeholders
-       -Helped identify underperforming loans and risk patterns
+       - Loan disbursement trends
+       - Good vs. bad loan comparison
+       - Regional, purpose-based, and demographic analysis
+       - Provided a user-friendly, interactive dashboard for stakeholders
+       - Helped identify underperforming loans and risk patterns
 
 ## KPIs Calculated
--Total Loan Applications
--Total Funded Amount
--Total Amount Received
--Average Interest Rate
--Average Debt-to-Income Ratio (DTI)
--Good Loan vs Bad Loan Metrics:
-     -Application %
-     -Funded Amount
-     -Received Amount
+- Total Loan Applications
+- Total Funded Amount
+- Total Amount Received
+- Average Interest Rate
+- Average Debt-to-Income Ratio (DTI)
+- Good Loan vs Bad Loan Metrics:
+     - Application %
+     - Funded Amount
+     - Received Amount
 
 ## Chart Trends
--Monthly Trend by Issue Date (Line Chart)
--Regional Analysis by State (Map)
--Loan Term Distribution (Donut Chart)
--Employment Length (Bar Chart)
--Loan Purpose Breakdown (Bar Chart)
--Home Ownership Impact (Tree Map)
--Loan Status Grid View
+- Monthly Trend by Issue Date (Line Chart)
+- Regional Analysis by State (Map)
+- Loan Term Distribution (Donut Chart)
+- Employment Length (Bar Chart)
+- Loan Purpose Breakdown (Bar Chart)
+- Home Ownership Impact (Tree Map)
+- Loan Status Grid View
 
 ## Insights Derived
 Seasonality: Loan applications spike during certain months
@@ -63,8 +63,8 @@ DTI Trends: Higher DTI correlates with loan default
 Good Loans dominate majority of applications
 
 ## Tools Used
-SQL Server Management Studio (SSMS)
-Power BI 
-Power Query
-DAX
-Excel 
+- SQL Server Management Studio (SSMS)
+- Power BI 
+- Power Query
+- DAX
+- Excel 
